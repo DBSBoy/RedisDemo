@@ -1,2 +1,2 @@
 # RedisDemo
-之前看到一个大神在Springboot中使用了redis，我也参考他在SpringBoot整合了Redis，配上restful风格
+之前看到一个大神在Springboot中使用了redis，我也参考他在SpringBoot整合了Redis，配上restful风格,里面我写了个序列化的配置文件，这样redis存的值就不会乱码了
