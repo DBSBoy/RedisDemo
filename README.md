@@ -1,0 +1,2 @@
+# RedisDemo
+之前看到一个大神在Springboot中使用了redis，我也参考他在SpringBoot整合了Redis，配上restful风格
